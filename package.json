@@ -1,0 +1,26 @@
+{
+  "name": "graph-api-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "node_modules/.bin/gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baesse/graph-api-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baesse/graph-api-typescript/issues"
+  },
+  "homepage": "https://github.com/baesse/graph-api-typescript#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-typescript": "^5.0.1",
+    "typescript": "^3.6.2"
+  }
+}
